@@ -6,3 +6,5 @@ ListNode.h and ListNode.cpp offers some tools like
   2 print list  
   3 reverse the list  
   4 reverse the list by 'k group'  
+
+There is also a directary about my record of some interesting solutions.
